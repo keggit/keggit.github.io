@@ -13,7 +13,9 @@ labels:
 summary: Income counter application for tip-based workers
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/income-light.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/income-light.png">
+</div>
 
 What am I actually making? is an android application written in Java using native android develpment tools. The purpose of the application is to assist those among us who do not make a consistent wage better understand how much they are earning.  
 
