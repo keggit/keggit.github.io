@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<div class="ui rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/dragonfruit.jpg">
 </div>
 
@@ -25,7 +25,7 @@ When you're out running, there's a lot of time to think. While I love thinking, 
 
 In a similar vein, I enjoy mycology. While some mushrooms are easy to identify...  
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/morel.jpg">
 </div>
 
@@ -33,11 +33,13 @@ This morel mushroom is very easy to identify and tasty to boot!
 
 Some mushrooms are much harder to identify.  
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/mush.jpg">
 </div>
 
 While applications exist to assist in identification, none that I have seen really get the job done. There's an entire class of mushrooms known as little brown mushrooms that tend to cause the most intoxications in humans. These mushrooms are extremely hard to identify for sure. I hope one day to assist in mushroom identification software and perhaps even predicting where they're fruiting!  
+
+In short, my goals as a software developer are to assist people in getting outside without stressing their necks.
 
 Side note: the pictures seen here have all been taken with my smartphone and "digitally enhanced" via machine learning.  
 
