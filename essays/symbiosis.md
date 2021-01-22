@@ -7,6 +7,7 @@ date: 2021-01-21
 labels:
   - Software Engineering
   - Learning
+  - About me
 ---
 
 <div class="ui medium rounded images">
