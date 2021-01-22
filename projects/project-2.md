@@ -1,25 +1,31 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/anki.jpg
+title: Epub Kanji Frequency Tool
+permalink: projects/kanji
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-08-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Rust
+  - Anki
+summary: A small application for converting an Epub file into a list of kanji, sorted by frequency. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/anki.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Kanji frequency tool is a small application I wrote around the middle of 2020, in Rust.  
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The intention of this tool is to import the .txt file outputted from the program into an [Anki](https://apps.ankiweb.net/) deck (an SRS flash card learning system) in order to complement learning while reading Japanese books.  
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Takes in an epub book and prints the kanji to a file, sorted by highest frequency back.  
+
+The kanji are compared to the [kanjidic](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project) dictionary. The output format can be easily imported into Anki.  
+
+Field 1 (front) is the kanji, 2 is meaning, 3 is on'yomi (represented in katakana), and field 4 is kun'yomi in hiragana.  
+
+example: `cargo run example.epub output.txt`  
+
+In my testing, some books could take over a minute.  
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/keggit/epub-kanji-frequency/"><i class="large github icon"></i>keggit/epub-kanji-frequency</a>
