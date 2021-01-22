@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: Symbiosis
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2021-01-21
 labels:
   - Software Engineering
   - Learning
 ---
 
-<div class="ui small rounded images">
+<div class="ui rounded images">
   <img class="ui image" src="../images/dragonfruit.jpg">
 </div>
 
@@ -37,7 +37,7 @@ Some mushrooms are much harder to identify.
   <img class="ui image" src="../images/mush.jpg">
 </div>
 
-While applications exist to assist in identification, none that I have seen really get the job done. I hope one day to assist in mushroom identification software and perhaps even predicting where they're fruiting!  
+While applications exist to assist in identification, none that I have seen really get the job done. There's an entire class of mushrooms known as little brown mushrooms that tend to cause the most intoxications in humans. These mushrooms are extremely hard to identify for sure. I hope one day to assist in mushroom identification software and perhaps even predicting where they're fruiting!  
 
 Side note: the pictures seen here have all been taken with my smartphone and "digitally enhanced" via machine learning.  
 
