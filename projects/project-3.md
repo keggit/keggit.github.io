@@ -21,7 +21,9 @@ What am I actually making? is an android application written in Java using nativ
 
 Some feature include: dark and light mode, custom pickers and nice statistics.  
 
-This was one of the first (larger scale) applications I wrote and despite the crude interface I am quite proud of my achievement.  
+This was one of the first (larger scale) applications I wrote and despite the crude interface I am quite proud of my achievement. This application was also the first time I used a development methodology. I used a kanban system where I wrote features and milestones on sticky notes and moved them to other parts of the board as they were implemented.  
+
+In this project I learned a lot about how native development works for android. Since then I've moved into other development frameworks (flutter, react) however the I feel I have an edge on other developers who only use 3rd party frameworks because they do not neccessarily know how the apps run.  
 
 Source: <a href="https://github.com/keggit/WaiaM"><i class="large github icon "></i>keggit/WaiaM</a>
 
