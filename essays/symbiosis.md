@@ -22,7 +22,7 @@ Now, my main focus in software is to help achieve symbiosis.
 
 As a long distance runner, having the right gear and setup makes all the difference. Advances in bluetooth technology finally gave me a chance to lose the cords, and the hassle, for good.  
 
-When you're out running, there's a lot of time to think. While I love thinking, sometimes i want to take notes. It can be somewhat tough to stop running. I dream of a day that I can simply start talking and have notes picked up and transcribed for me (hopefully soon!).  
+When you're out running, there's a lot of time to think. While I love thinking, sometimes I want to take notes. It can be somewhat tough to stop running. I dream of a day that I can simply start talking and have notes picked up and transcribed for me (hopefully soon!).  
 
 In a similar vein, I enjoy mycology. While some mushrooms are easy to identify...  
 
