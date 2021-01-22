@@ -46,10 +46,6 @@ Although we did not use any formal methodology (Agile, Scrum, etc), we were all 
 Our biggest failing as a team was probably in a lack of a clear goal. If I remember correctly, early on someone asked whether we wanted to win or not, to which a serious reply was not given. Because we did not enunciate that point, I had times where I questioned how much work I should put in. Even if we did not want to win, I feel making that clear could have helped our team, even if that meant the app might have become worse from it. Overall, the biggest point of learning for me was more about these types of contests as a whole. The normal app development process truly needs to be kicked to the curb when attending a hackathon. I was able to verify that the person doing our technical review did not test the app. Some things I feel are very important (like user flow), are things that the HACC had no acknowlegement for, and spending any time on that is wasted.  
 
 <div class="ui medium rounded images">
-        <img src="../images/example_search.png" class="ui image">
-</div>
-
-<div id="image">
             <figure>
                 <img src="../images/example_search.png" alt="results shown from a search">
                 <figcaption>A sample search, with listed results</figcaption>
