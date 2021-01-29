@@ -10,7 +10,7 @@ labels:
   - About me
 ---
 
-<div class="ui medium rounded images">
+<div class="ui medium center rounded images">
   <img class="ui image" src="../images/dragonfruit.jpg">
 </div>
 
