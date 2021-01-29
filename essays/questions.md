@@ -33,9 +33,9 @@ This user answered the question a bit more helpfully, at least.
 
 ## Making a Difficult Language a bit Easier  
 
-It is not possible to fully avoid getting rude answers. The most perfectly crafted question, fully unanswerable by even the best developers, might still garner some scorn from certain users. That said, a good question begs to be answered. This question from Angel Angel holds the title: [How do you pass a Rust function as a parameter](https://stackoverflow.com/questions/36390665/how-do-you-pass-a-rust-function-as-a-parameter)  
+It is not possible to fully avoid getting rude answers. The most perfectly crafted question, fully unanswerable by even the best developers, might still garner some scorn from certain users. That said, a good question begs to be answered. This question from Angel Angel holds the title: [How do you pass a Rust function as a parameter](https://stackoverflow.com/questions/36390665/how-do-you-pass-a-rust-function-as-a-parameter).  
 
-The title is clear and succint. Granted, it's a relatively easy question to answer. But perhaps it is only easy to answer because it is phrased well. Following the good question, the used continues with an example of what they've tried.  
+The title is clear and succint. Granted, it's a relatively easy question to answer. But perhaps it is only easy to answer because it is phrased well. Following the good question, the user continues with an example of what they've tried.  
 
 ```Rust 
 fn example() {
