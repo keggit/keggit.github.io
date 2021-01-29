@@ -105,6 +105,20 @@
         "Customer service",
         "Software diagnosis and repair"
       ]
+    },
+    {
+      "company": "Paladar Latin Kitchen and Rum Bar",
+      "position": "Server",
+      "website": "",
+      "startDate": "2017-03-01",
+      "endDate": "2018-03-01",
+      "summary": "Waited tables, as well as large parties.",
+      "highlights": [
+        "Customer service",
+        "Time management",
+        "Rum knowledge"
+      ]
+
     }
   ]
 }
