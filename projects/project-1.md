@@ -13,7 +13,7 @@ labels:
 summary: A React Native application written for the Hawaii HACC contest.
 ---
 
-<div class="ui small rounded images">
+<div class="ui small right floated rounded images">
   <img class="ui image" src="../images/hacc.png">
 </div>
 
@@ -29,7 +29,7 @@ Our entry was for the First Lady Dawn Amano-Ige in order to make an application 
 
 We made an Android application for our project but because we used React Native, the application would theoretically run on an Iphone device and could be easily modified to do so. Unfortunately none of us had a Mac or Iphone so we were unable to test that capability. Besides this, the app could also be easily ported to a React app to be used on the web. While we made these types of considerations and others (such as localizations), we decided that a quick and dirty solution was best.  
 
-<div class="ui medium rounded images">
+<div class="ui medium right floated rounded images">
         <img src="../images/first_screen.png" class="ui image">
 </div>
 
@@ -39,18 +39,15 @@ Our team was managed entirely over Discord. We started out with around three peo
 
 Although we did not use any formal methodology (Agile, Scrum, etc), we were all pretty familiar with that and ended up adopting a simliar workflow anyway. We tended to work in sprints together, meeting up on important days. No one was assigned any roles but we ended up taking roles anyway. I worked in a number of areas on the app. I did the lion's share of the work with Firebase and linking it to our code. Besides that, because of my work with the mockup I quickly became responsible for the direction we headed (whether I wanted it or not). I felt entirely out of place taking that role, as I had little experience with React Native. However, my experience developing phone apps was probably the highest in the team, so there were plenty of ways for me to make myself useful.  
 
-<div class="ui medium rounded images">
+<div class="ui medium right floated rounded images">
         <img src="../images/splash.png" class="ui image">
 </div>
 
 Our biggest failing as a team was probably in a lack of a clear goal. If I remember correctly, early on someone asked whether we wanted to win or not, to which a serious reply was not given. Because we did not enunciate that point, I had times where I questioned how much work I should put in. Even if we did not want to win, I feel making that clear could have helped our team, even if that meant the app might have become worse from it. Overall, the biggest point of learning for me was more about these types of contests as a whole. The normal app development process truly needs to be kicked to the curb when attending a hackathon. I was able to verify that the person doing our technical review did not test the app. Some things I feel are very important (like user flow), are things that the HACC had no acknowlegement for, and spending any time on that is wasted.  
 
-<div class="ui medium rounded images">
-            <figure>
-                <img src="../images/example_search.png" alt="results shown from a search">
-                <figcaption>A sample search, with listed results</figcaption>
-            </figure>
-        </div>
+<div class="ui medium right floated rounded images">
+        <img src="../images/example_search.png" alt="results shown from a search">
+</div>
 
 Overall, while I would not attend the HACC again, I felt the gains outweighed the expenses. My programming skillset at times can feel useless when faced with problems liked hunger and homelessness. The opportunity to create something that could almost certainly only result in a net gain for those in need is an opportunity I would be most willing to take again.  
 
