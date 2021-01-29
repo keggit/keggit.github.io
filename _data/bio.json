@@ -46,7 +46,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets/Frameworks",
       "level": "",
       "keywords": [
         "Flutter",
