@@ -9,7 +9,7 @@ labels:
   - Coding Standards
 ---
 
-While a programming language is not the same thing as a natural language, there are many parallels that can be drawn between the two. Both are used to communicate a message, both have easy and hard ways to describe one thing and both have a large community of people who believe their way of articulation to be the best. When higher level programming languages first came about there was a bit of a wild west time period for standardization of code. Some inspired individuals even went as far as writing a programming language that only works with (whitespace)[https://en.wikipedia.org/wiki/Whitespace_%28programming_language%29].  
+While a programming language is not the same thing as a natural language, there are many parallels that can be drawn between the two. Both are used to communicate a message, both have easy and hard ways to describe one thing and both have a large community of people who believe their way of articulation to be the best. When higher level programming languages first came about there was a bit of a wild west time period for standardization of code. Some inspired individuals even went as far as writing a programming language that only works with [whitespace](https://en.wikipedia.org/wiki/Whitespace_%28programming_language%29).  
 
 Over time, people realized that just because the compiler was okay with the program did not mean that colleagues were okay with it. Soon enough, a revolution began with many small parties creating their own rules for writing programs.  
 
@@ -46,7 +46,7 @@ Suddenly, we are able to glean a lot more information from this small code snipp
 
 ## Don't Make a Hard Problem Harder  
 
-In the book ("Thinking, Fast and Slow")[https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow] by Daniel Kahneman, the idea of 'system 1' and 'system 2' get introduced. System 1 is the reflex system of the brain that responds quickly and system 2 is the logical part of the brain (extremely simplified). Kahneman found that this system 2 of ours is incredibly finicky. It gets tired easily and tries hard to get out of work. Unfortunately for programmers, software development exists almost entirely in that system 2 space.  
+In the book ["Thinking, Fast and Slow"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) by Daniel Kahneman, the idea of 'system 1' and 'system 2' get introduced. System 1 is the reflex system of the brain that responds quickly and system 2 is the logical part of the brain (extremely simplified). Kahneman found that this system 2 of ours is incredibly finicky. It gets tired easily and tries hard to get out of work. Unfortunately for programmers, software development exists almost entirely in that system 2 space.  
 
 I can recall some fond memories of mine, starting a programming project a few hours before it is due. I remember getting the project done, and then when I realize I need my code again for another project, my mind starts to blank. The code I wrote not long ago now looks completely foreign to me.  
 
