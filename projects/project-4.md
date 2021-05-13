@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/homepage-m3.png
+image: images/oppo.png
 title: Opportunity Searcher
 permalink: projects/search
 # All dates must be YYYY-MM-DD format!
